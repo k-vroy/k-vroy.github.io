@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "{12fda411-fe26-4107-a42b-0ad550658e18}": {
+      "updates": [
+        {
+          "version": "1.1",
+          "update_link": "https://k-vroy.github.io/addons/phenix_toolbox/phenix_toolbox-1.1.xpi"
+        }
+      ]
+    }
+  }
+}
