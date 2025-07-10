@@ -17,6 +17,10 @@
         {
           "version": "1.4",
           "update_link": "https://k-vroy.github.io/addons/phenix_toolbox/phenix_toolbox-1.4.xpi"
+        },
+        {
+          "version": "1.5",
+          "update_link": "https://k-vroy.github.io/addons/phenix_toolbox/phenix_toolbox-1.5.xpi"
         }
       ]
     }
